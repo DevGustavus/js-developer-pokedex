@@ -1,5 +1,8 @@
 # Trilha JS Developer - Pokedex
 
+## 📲 View the project here
+<a href="https://devgustavus.github.io/js-developer-pokedex/">https://devgustavus.github.io/js-developer-pokedex/</a>
+
 ## 📖 About the project
 This is a Pokedex project developed as part of a bootcamp on the DIO platform, within the context of a fullstack development course. The web application uses the https://pokeapi.co API to list Pokémon, demonstrating the use of object-oriented programming and data manipulation through JSON, requests, promises, and other techniques.
 
